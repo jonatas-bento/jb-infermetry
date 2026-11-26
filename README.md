@@ -1,11 +1,11 @@
-# AI Cost Lens
+# JB Infermetry
 
 Making everyday AI consumption transparent,
 measurable, and accessible.
 
 ## Mission
 
-AI Cost Lens is an independent open-source
+JB Infermetry is an independent open-source
 initiative designed to help people understand
 the economics of everyday AI usage.
 
@@ -43,6 +43,15 @@ differ from actual provider billing.
 
 ## Independence
 
-AI Cost Lens is an independent personal
+JB Infermetry is an independent personal
 project developed using public information
 and independently authored source code.
+
+## License
+
+Original project material is licensed under the
+[MIT License](LICENSE).
+
+Third-party components remain subject to their
+respective license terms. See
+[Third-Party Notices](THIRD_PARTY_NOTICES.md).
