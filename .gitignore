@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+.angular/
+coverage/
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.ssh/
+secrets/
+
+# Private engineering evidence
+evidence/
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editor-specific local settings
+.idea/
+.vscode/
