@@ -9,7 +9,7 @@
 - License: MIT
 - Copyright holder: GitHub, Inc.
 
-AI Cost Lens incorporates generated Spec Kit scripts,
+JB Infermetry incorporates generated Spec Kit scripts,
 templates, integration instructions and workflow assets
 to support its specification-driven development process.
 
@@ -18,8 +18,8 @@ in [licenses/spec-kit-MIT.txt](licenses/spec-kit-MIT.txt).
 
 Project-specific specifications, architectural decisions
 and governance documents are maintained independently
-by AI Cost Lens.
+by JB Infermetry.
 
 Third-party license terms apply to their respective
 components and do not independently establish the license
-of the AI Cost Lens project.
+of the JB Infermetry project.

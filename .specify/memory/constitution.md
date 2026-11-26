@@ -1,4 +1,4 @@
-# AI Cost Lens Constitution
+# JB Infermetry Constitution
 
 ## Core Principles
 
@@ -295,7 +295,7 @@ a documented rationale.
 
 ## Governance
 
-This constitution governs AI Cost Lens engineering
+This constitution governs JB Infermetry engineering
 practices, feature specifications, implementation
 plans and release decisions.
 
@@ -335,4 +335,4 @@ the affected feature or release.
 Governance changes MUST be committed to source
 control after review.
 
-**Version**: 1.0.0 | **Ratified**: 2026-11-26 | **Last Amended**: 2026-11-26
+**Version**: 1.0.1 | **Ratified**: 2026-11-26 | **Last Amended**: 2026-11-26
